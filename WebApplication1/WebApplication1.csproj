@@ -250,6 +250,7 @@
     <Content Include="Content\vendor\simple-line-icons\less\simple-line-icons.less" />
     <Content Include="Content\vendor\simple-line-icons\scss\simple-line-icons.scss" />
     <None Include="Properties\PublishProfiles\WebApplication120180425030820 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\WebApplication120180425032827 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
